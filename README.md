@@ -7,17 +7,15 @@ Armar la historia de mis trabajos desde su pictograma asociado y la diagramació
 ### ¿Para quiénes?
 #### **Explorador creativo** (Extremo 1)
 <p align="left">
-  <img src="img/explorador.jpeg" width="120" align="left" alt="Explorador" />
-  <b>Explorador Creativo</b><br>
-  Estudiante de diseño digital apasionado por la innovación y la experimentación visual.<br>
-  <i>“Si el portafolio me sorprende con su narrativa, ya me inspira.”</i>
+  <img src="img/explorador.jpg" width="150" align="left" alt="Explorador" />
+  <b>Demografía</b><br>
+  Estudiante de diseño digital apasionado por la innovación y la experimentación visual, en busca de inspiración para .<br> ߉ Vive en Santiago <br>
+  Trabaja de forma independiente o en agencia creativa.<br>
+  <i>“Me gusta cuando el diseño, permite interactuar y ser parte del proceso.”</i>
 </p>
 <br clear="left"/>
 
 <dl>
-  <dt>Indentidad báscia</dt>
-  <dd>Estudiantes de áreas creativas en busca de inspiración para proyectos de innovación e interacción.</dd>
-
   <dt>Creencias y comportamientos</dt>
   <dd>- Pasa horas explorando portafolios y referencias visuales en Behance, Instagram y webs interactivas. 
     <br>- Cree que la forma de presentar una idea comunica tanto como la idea misma.
