@@ -6,7 +6,14 @@ Portafolio personal interactivo que permita a los *visitantes* ir armando mis tr
 Armar la historia de mis trabajos desde su pictograma asociado y la diagramación, entregando una mayor comprensión.
 ### ¿Para quiénes?
 #### **Explorador creativo** (Extremo 1)
-![usuario 1](/img/explorador.jpeg)
+<p align="left">
+  <img src="img/explorador.jpeg" width="120" align="left" alt="Explorador" />
+  <b>Explorador Creativo</b><br>
+  Estudiante de diseño digital apasionado por la innovación y la experimentación visual.<br>
+  <i>“Si el portafolio me sorprende con su narrativa, ya me inspira.”</i>
+</p>
+<br clear="left"/>
+
 <dl>
   <dt>Indentidad báscia</dt>
   <dd>Estudiantes de áreas creativas en busca de inspiración para proyectos de innovación e interacción.</dd>
