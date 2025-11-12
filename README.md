@@ -63,10 +63,10 @@ Entretenerse mientras entiende el estilo y personalidad del autor. Encontrar alg
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td width="33%">
       <img src="img/antecedente1.png" width="500"><br>
-      <b>¿Qué es?</b><br>Portafolio narrativo interactivo.<br>
-      <b>Fuente:</b> <a href="https://uxdesign.cc">uxdesign.cc</a><br>
+      <b>¿Qué es?</b><br><b>Folllit</b>, es un portafolio digital interactivo que combina animaciones, tipografía expresiva y navegación experimental para mostrar trabajos de diseño de forma inmersiva. El sitio usa un enfoque narrativo, donde el scroll y los movimientos del cursor activan transiciones fluidas, efectos de desplazamiento y reacciones visuales, generando una experiencia sensorial más que informativa.<br>
+      <b>Fuente:</b> <a href="https://www.awwwards.com/sites/folllit">https://www.awwwards.com/sites/folllit</a><br>
       <b>Positivos:</b> Inmersivo, original.<br>
       <b>Negativos:</b> Puede distraer.
     </td>
