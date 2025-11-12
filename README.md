@@ -43,19 +43,21 @@ Evaluar si el trabajo combina innovación y funcionalidad. Conocer cómo traduce
 
 ### **Visitante Curioso** (Promedio)
 <p align="left">
-  <img src="img/innovacion.jpg" width="200" align="left" alt="Explorador" />
+  <img src="img/visitante.png" width="200" align="left" alt="Explorador" />
   <i><b>Demografía</b></i><br>
-  Profesional o estudiante de áreas afines: diseño, arte, comunicación. Actualmente se encuentra buscando trabajos relacionados al Diseño para la Innovación, por lo que busca inspo.<br> ߉ Vive en Santiago<br>
-  모 Trabaja de forma remota híbrida.<br>
+  Profesional o estudiante de áreas afines: diseño, arte, comunicación. Actualmente se encuentra buscando inspiración para diseñar su portafolio ideal.<br> ߉ Vive en Santiago<br>
+  모 Buscando trabajo.<br>
   Interés: metodologías creativas, innovación educativa<br>
-  <i>“La innovación tiene que ser bella, pero sobre todo tener un sentido.”</i>
+  <i>“Quiero encontrar el trabajo perfecto y para eso necesito encontrar inspo.”</i>
 </p>
 
 <p><i><b>Creencias y comportamientos</b></i> <br>
-Analiza la estructura del portafolio: navegación, jerarquía, propósito. Valora claridad conceptual y justificación de decisiones de diseño. Escanea rápido para entender cómo el proyecto comunica su proceso. Prefiere experiencias interactivas simples pero con coherencia visual.
+Llega por curiosidad o recomendación en redes. Recorre el sitio como si explorara una historia visual. Hace click en los íconos o personaje para descubrir qué pasa. Se queda más tiempo si la experiencia es fluida y estética.
 </p>
 
 <p><i><b>Necesidades y metas</b></i> <br>
-Evaluar si el trabajo combina innovación y funcionalidad. Conocer cómo traduce conceptos experimentales en resultados concretos. Usar el portafolio como referencia o ejemplo para estudiantes o equipos.
+Entretenerse mientras entiende el estilo y personalidad del autor. Encontrar algo distinto a los portafolios convencionales. Ver coherencia entre el personaje, los íconos y los proyectos.
 </p>
+
+## Antecedentes
 
