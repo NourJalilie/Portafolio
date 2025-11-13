@@ -129,4 +129,4 @@ Entretenerse mientras entiende el estilo y personalidad del autor. Encontrar alg
 </table>
 
 ## Referentes
-
+<img src="img/moodboard.png"  align="center" alt="moodboard" />
